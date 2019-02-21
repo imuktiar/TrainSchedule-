@@ -38,7 +38,7 @@ src="https://www.gstatic.com/firebasejs/5.8.1/firebase.js"
      // Alert
         alert("Train successfully added");
 
-   // Clears all of the text-boxes
+//clear all of the text boxes   
     $("#train-name-input").val("");
     $("#dest-input").val("");
     $("#firstTrain-input").val("");
